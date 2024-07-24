@@ -2,7 +2,7 @@
 
 This is a React application for managing book and author records in a library. The application uses Formik for form validation, Bootstrap for styling via CDN, and Vite for the project setup.
 
-output - [click here](https://pratheek-react-formik.netlify.app/)
+output - https://sathyagar-form-validation.netlify.app/
 
 ## Usage
 
